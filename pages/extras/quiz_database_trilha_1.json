@@ -1,0 +1,62 @@
+{
+  "settings": {
+    "questions": 2,
+    "answers": 4,
+    "randomize_questions": true,
+    "randomize_answers": true
+  },
+  "gamemode": {
+    "feedback_mode": true,
+    "feedback_rule": "feed-and-go"
+  },
+  "questions": [
+    {
+      "Title": "É uma característica de material condutor",
+      "Answers": [
+        {
+          "Title": "O fato de ser dielétrico.",
+          "Score": 0
+        },
+        {
+          "Title": "A viabilização do isolamento elétrico.",
+          "Score": 0
+        },
+        {
+          "Title": "A presença de elétrons livres em alta quantidade.",
+          "Score": 1
+        },
+        {
+          "Title": "A presença de íons interagindo sobre a sua superfície.",
+          "Score": 0
+        }
+      ],
+      "Feedback-certo": "Parabéns! <br/> Você se dedicou e estudou o conteúdo com muita atenção. <br/> Sua resposta está correta!",
+      "Feedback-chance": "Ainda não foi dessa vez, a resposta está errada. <br/> Mas não desista, você tem mais uma chance. ",
+      "Feedback-errado": "Sua resposta está errada, que pena. <br/> A resposta correta é: <b>A presença de elétrons livres em alta quantidade.</b>"
+    },
+    {
+      "Title": "Consiste em uma regra básica da análise de riscos:",
+      "Answers": [
+        {
+          "Title": "Considerar como as tarefas são feitas no procedimento previsto e não na prática.",
+          "Score": 0
+        },
+        {
+          "Title": "Generalizar a análise para um mesmo risco.",
+          "Score": 0
+        },
+        {
+          "Title": "Sugerir medidas corretivas depois que o acidente de trabalho já ocorreu.",
+          "Score": 0
+        },
+        {
+          "Title": "Não conduzir a análise de risco do ponto de vista de uma única pessoa.",
+          "Score": 1
+        }
+      ],
+      "Feedback-certo": "Parabéns! <br/> Você se dedicou e estudou o conteúdo com muita atenção. <br/> Sua resposta está correta!",
+      "Feedback-chance": "Ainda não foi dessa vez, a resposta está errada. <br/> Mas não desista, você tem mais uma chance. ",
+      "Feedback-errado": "Sua resposta está errada, que pena. <br/> A resposta correta é: <b>Não conduzir a análise de risco do ponto de vista de uma única pessoa.</b>"
+    }
+  ]
+}
